@@ -1,8 +1,8 @@
-<h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
+<h2>Projeto de Finalização do Bootcamp. Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
-Nesta live coding, vamos aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos desenvolver testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.
+Neste Labs o Expert Rodrigo Peleias direciona o passo a passo do Projeto. O objetivo foi testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Foram construídos testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja desenvolvido em Spring Boot, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, desenvolvemos funcionalidades da nossa API através da prática do TDD.
 
-Durante a sessão, serão abordados os seguintes tópicos:
+Forão abordados os seguintes tópicos:
 
 * Baixar um projeto através do Git para desenolver nossos testes unitários. 
 * Apresentação conceitual sobre testes: a pirâmide dos tipos de testes, e também a importância de cada tipo de teste durante o ciclo de desenvolvimento.
@@ -29,7 +29,7 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 http://localhost:8080/api/v1/beers
 ```
 
-São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
+Foram necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
 
 * Java 14 ou versões superiores.
 * Maven 3.6.3 ou versões superiores.
@@ -37,7 +37,7 @@ São necessários os seguintes pré-requisitos para a execução do projeto dese
 * Controle de versão GIT instalado na sua máquina.
 * Muita vontade de aprender e compartilhar conhecimento :)
 
-Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
+Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante o desenvolvimento do Projeto:
 
 * [SDKMan! para gerenciamento e instalação do Java e Maven](https://sdkman.io/)
 * [Referência do Intellij IDEA Community, para download](https://www.jetbrains.com/idea/download)
