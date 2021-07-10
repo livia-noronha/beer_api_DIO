@@ -2,7 +2,7 @@
 
 Neste Labs o Expert Rodrigo Peleias direciona o passo a passo do Projeto. O objetivo foi testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Foram construídos testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja desenvolvido em Spring Boot, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, desenvolvemos funcionalidades da nossa API através da prática do TDD.
 
-Meu aprendizado: Foi possível observar e praticar o dsenvolvimento de Testes no Projeto, assunto o qual havia estudado em um curso anterior. O que pude absorver em relação à prática de testes: com o TDD o teste é desenhado anteriormente, para que seja aplicado após o desenvolvimento do código. Problemas mais complexos podem se beneficiar bastante do TDD, sendo também uma maneira de deixar o código mais "testável". Teste é uma maneira de documentar.
+Meu aprendizado: Foi possível observar e praticar o desenvolvimento de Testes no Projeto, assunto o qual havia estudado em um curso anterior. O que pude absorver em relação à prática de testes: com o TDD o teste é desenhado anteriormente, para que seja aplicado após o desenvolvimento do código. Problemas mais complexos podem se beneficiar bastante do TDD, sendo também uma maneira de deixar o código mais "testável". Teste é uma maneira de documentar.
 
 Forão abordados os seguintes tópicos:
 
